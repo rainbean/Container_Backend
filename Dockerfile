@@ -11,4 +11,5 @@ RUN pip --no-cache-dir install \
         opencv-python \
         pymongo \
         polyline \
-        filelock
+        filelock \
+        aiofiles
