@@ -12,4 +12,6 @@ RUN pip --no-cache-dir install \
         pymongo \
         polyline \
         filelock \
-        aiofiles
+        aiofiles \
+        python-multipart
+
