@@ -13,5 +13,6 @@ RUN pip --no-cache-dir install \
         polyline \
         filelock \
         aiofiles \
-        python-multipart
+        python-multipart \
+        httpagentparser
 
